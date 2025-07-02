@@ -117,22 +117,4 @@ We utilize **MobileNetV2** for both tasks, with transfer learning to ensure fast
 ```bash
 pip install tensorflow scikit-learn numpy matplotlib opencv-python
 ```
-
-###  Train Models
-
-```python
-# For detection:
-detection_model.fit(...)
-
-# For segmentation:
-seg_model.fit(...)
-```
-
-###  Evaluate
-
-```python
-# Evaluate accuracy on test data
-# Predict and visualize segmentation masks
-```
-
 ---
