@@ -105,6 +105,7 @@ We utilize **MobileNetV2** for both tasks, with transfer learning to ensure fast
 ##  Results
 
 ![Classification Result](images/classification.png)
+![Segmentation Result](images/segmentation.png)
 
 
 ---
