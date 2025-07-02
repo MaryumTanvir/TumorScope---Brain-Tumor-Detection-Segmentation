@@ -1,0 +1,4 @@
+kaggle_3m/
+lgg-mri-segmentation/
+# Add to .gitignore
+mobilenetv2_best.h5ResUNet-model.keras
