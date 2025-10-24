@@ -93,13 +93,13 @@ We utilize **MobileNetV2** for both tasks, with transfer learning to ensure fast
 ### Detection
 
 * Accuracy
-* <img width="526" height="112" alt="image" src="https://github.com/user-attachments/assets/06cbba81-ec27-4b68-9db0-2f215491754c" />
+* <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/06cbba81-ec27-4b68-9db0-2f215491754c" />
 
 * Confusion Matrix
-* <img width="894" height="776" alt="image" src="https://github.com/user-attachments/assets/18a5f5be-56b5-4c9d-ab61-7a73fd80717b" />
+* <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/18a5f5be-56b5-4c9d-ab61-7a73fd80717b" />
 
 * Classification Report
-* <img width="957" height="406" alt="image" src="https://github.com/user-attachments/assets/460f2e04-1159-4085-94b8-8d7447aa9035" />
+* <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/460f2e04-1159-4085-94b8-8d7447aa9035" />
 
   
 
