@@ -37,7 +37,7 @@ We utilize **MobileNetV2** for both tasks, with transfer learning to ensure fast
 ##  Dataset
 
 * **Source**: [Kaggle - Brain Tumor Segmentation Dataset (LGG)](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
-* <img width="1396" height="1078" alt="image" src="https://github.com/user-attachments/assets/ca717dee-aaa0-40bf-9278-26113aaaede4" />
+* <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/ca717dee-aaa0-40bf-9278-26113aaaede4" />
 
 * **Input**: Grayscale MRI images
 * **Outputs**:
@@ -93,13 +93,13 @@ We utilize **MobileNetV2** for both tasks, with transfer learning to ensure fast
 ### Detection
 
 * Accuracy
-* <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/06cbba81-ec27-4b68-9db0-2f215491754c" />
+* <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/06cbba81-ec27-4b68-9db0-2f215491754c" />
 
 * Confusion Matrix
-* <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/18a5f5be-56b5-4c9d-ab61-7a73fd80717b" />
+* <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/18a5f5be-56b5-4c9d-ab61-7a73fd80717b" />
 
 * Classification Report
-* <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/460f2e04-1159-4085-94b8-8d7447aa9035" />
+* <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/460f2e04-1159-4085-94b8-8d7447aa9035" />
 
   
 
