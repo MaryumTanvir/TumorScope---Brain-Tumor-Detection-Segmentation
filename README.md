@@ -1,5 +1,4 @@
 
-
 #  Brain Tumor Detection & Segmentation Using U-Net + MobileNetV2
 
 This project performs **brain tumor detection** (classification) and **tumor region segmentation**  on MRI images using deep learning. Both tasks are powered by **MobileNetV2** — as a **classifier** for detection and as an **encoder** in a U-Net architecture for segmentation.
@@ -38,6 +37,8 @@ We utilize **MobileNetV2** for both tasks, with transfer learning to ensure fast
 ##  Dataset
 
 * **Source**: [Kaggle - Brain Tumor Segmentation Dataset (LGG)](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
+* <img width="1396" height="1078" alt="image" src="https://github.com/user-attachments/assets/ca717dee-aaa0-40bf-9278-26113aaaede4" />
+
 * **Input**: Grayscale MRI images
 * **Outputs**:
 
@@ -92,13 +93,15 @@ We utilize **MobileNetV2** for both tasks, with transfer learning to ensure fast
 ### Detection
 
 * Accuracy
+* <img width="526" height="112" alt="image" src="https://github.com/user-attachments/assets/06cbba81-ec27-4b68-9db0-2f215491754c" />
+
 * Confusion Matrix
+* <img width="894" height="776" alt="image" src="https://github.com/user-attachments/assets/18a5f5be-56b5-4c9d-ab61-7a73fd80717b" />
 
-### Segmentation
+* Classification Report
+* <img width="957" height="406" alt="image" src="https://github.com/user-attachments/assets/460f2e04-1159-4085-94b8-8d7447aa9035" />
 
-* Pixel-wise Accuracy
-* Dice Coefficient
-* Jaccard Index (IoU)
+  
 
 ---
 
